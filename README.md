@@ -8,7 +8,7 @@ Curated collection of resources to learn more about software architecture
 
 ## Websites :earth_americas:
 
-## Courses :pencil:
+## Courses :mortar_board:
 
 ## Certifications :page_with_curl:
 
