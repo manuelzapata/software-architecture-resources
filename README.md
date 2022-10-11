@@ -2,16 +2,18 @@
 
 Curated collection of resources to learn more about software architecture
 
-## Books
+## Books :books:
 
-## YouTube channels
+## YouTube channels :video_camera:
 
-## Websites
+## Websites :earth_americas:
 
-## Courses
+## Courses :pencil:
 
-## Real-world examples
+## Certifications :page_with_curl:
 
-## Repositories
+## Real-world examples :pushpin:
 
-## Tools
+## Repositories 💻
+
+## Tools 📐
